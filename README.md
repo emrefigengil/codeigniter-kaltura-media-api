@@ -9,8 +9,8 @@ Installation
 Requirements
 ------------
 1. CodeIgniter
-2.kaltura PartnerID
-3.kaltura apiSecretKey
+2. Kaltura PartnerID
+3. Kaltura apiSecretKey
 
 API Methods
 -----------
